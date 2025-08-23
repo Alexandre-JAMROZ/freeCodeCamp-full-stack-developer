@@ -23,16 +23,29 @@ De plus, dans chaque sous-parties d'un cours, nous pouvons remarquer des modules
 
 ## Dépôt GitHub
 Mon arborescence de fichiers sur GitHub s'appuie donc sur ces cours et modules.  
-Nous retrouverons un **répertoire par cour**s, des **sous-répertoires par sous-parties**, et un répertoire **Workshop** et **Lab** par sous-répertoires.  
+Nous retrouverons un **répertoire par cours**, un **sous-répertoire par sous-parties**, et un répertoire **Workshop** et **Lab** par sous-répertoire.  
 Dans ces derniers répertoires se retrouveront respectivement les fichiers réponses des projets Workshop et les réponses des modules Lab.
+
+Prenons un exemple de suite de modules :
+- Workshop
+- Lab
+- Lab
+- Workshop
+
+Le premier fichier sera nommé *"1-XXX.html"* et placé dans le répertoire **Workshop**.  
+Le deuxième fichier sera nommé *"2-XXX.html"* et placé dans le répertoire **Lab**.  
+Le troisième fichier sera nommé *"3-XXX.html"* et placé dans le répertoire **Lab**.  
+Le quatrième fichier sera nommé *"4-XXX.html"* et placé dans le répertoire **Workshop**.  
 
 Tous les cours, répertoires et fichiers sont accessibles ci-dessous.
 
 <h1 align="center">Cours Full Stack Developer</h1>
 
-## [HTML](HTML/BasicHTML)
+- [HTML](HTML/BasicHTML)
+  - [Basic HTML](HTML/BasicHTML)
+    - [Lab](HTML/BasicHTML/Lab)
+    - [Workshop](HTML/BasicHTML/Workshop)
 
-### Basic HTML
 
 ### Semantic HTML
 
