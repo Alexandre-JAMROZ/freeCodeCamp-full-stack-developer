@@ -16,8 +16,8 @@ Par exemple, on a le cours ***HTML*** qui est divisé en plusieurs parties : ***
 
 De plus, dans chaque sous-parties d'un cours, nous pouvons remarquer des modules de types ***Lecture***, ***Workshop***, ***Lab***, ***Review*** et ***Quiz*** :
 - Les modules ***Lecture*** sont des morceaux de cours théoriques à apprendre
-- Les ***Workshop*** sont des projets à conceptualiser en autonomie
-- Tandis que les ***Lab*** sont des codes ou morceaux de code qu'il faut corriger
+- Les ***Workshop*** sont des projets à conceptualiser étape par étape
+- Tandis que les ***Lab*** sont des projets qu'il faut corriger ou conceptualiser de zéro
 - Les ***Review*** sont des révisions portant sur les modules précédents
 - Les ***Quiz*** comme son nom l'indique, des quizs pour tester les connaissances acquises précédemment
 
