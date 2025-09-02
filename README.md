@@ -41,17 +41,20 @@ Tous les cours, répertoires et fichiers sont accessibles ci-dessous.
 
 <h1 align="center">Cours Full Stack Developer</h1>
 
-- [HTML](HTML/BasicHTML)
+- [HTML](HTML/)
   - [Basic HTML](HTML/BasicHTML)
     - [Lab](HTML/BasicHTML/Lab)
     - [Workshop](HTML/BasicHTML/Workshop)
+  - [Semantic HTML](HTML/SemanticHTML)
+    - [Lab](HTML/SemanticHTML/Lab)
+    - [Workshop](HTML/SemanticHTML/Workshop)
+  - [Forms And Table](HTML/FormsAndTables)
+    - [Lab](HTML/FormsAndTables/Lab)
+    - [Workshop](HTML/FormsAndTables/Workshop)
+  - [Accessibility](HTML/Accessibility)
+    - [Lab](HTML/Accessibility/Lab)
+    - [Workshop](HTML/Accessibility/Workshop)
 
-
-### Semantic HTML
-
-### Forms and Tables
-
-### Accessibility
 
 ## CSS
 
