@@ -53,7 +53,6 @@ Tous les cours, répertoires et fichiers sont accessibles ci-dessous.
     - [Workshop](HTML/FormsAndTables/Workshop)
   - [Accessibility](HTML/Accessibility)
     - [Lab](HTML/Accessibility/Lab)
-    - [Workshop](HTML/Accessibility/Workshop)
 
 
 ## CSS
