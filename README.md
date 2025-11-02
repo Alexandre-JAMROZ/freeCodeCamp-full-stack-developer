@@ -33,9 +33,9 @@ Prenons un exemple de suite de modules :
 - Workshop
 
 Le premier fichier sera nommé *"1-XXX.html"* et placé dans le répertoire **Workshop**.  
-Le deuxième fichier sera nommé *"2-XXX.html"* et placé dans le répertoire **Lab**.  
-Le troisième fichier sera nommé *"3-XXX.html"* et placé dans le répertoire **Lab**.  
-Le quatrième fichier sera nommé *"4-XXX.html"* et placé dans le répertoire **Workshop**.  
+Le deuxième fichier sera nommé *"1-XXX.html"* et placé dans le répertoire **Lab**.  
+Le troisième fichier sera nommé *"2-XXX.html"* et placé dans le répertoire **Lab**.  
+Le quatrième fichier sera nommé *"2-XXX.html"* et placé dans le répertoire **Workshop**.  
 
 Tous les cours, répertoires et fichiers sont accessibles ci-dessous.
 
