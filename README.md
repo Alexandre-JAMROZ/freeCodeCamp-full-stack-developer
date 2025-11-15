@@ -58,5 +58,6 @@ Tous les cours, répertoires et fichiers sont accessibles ci-dessous.
       - [Workshop](1-Responsive_Web_Design/1-HTML/3-Forms_and_Tables/Workshop)
     - [Accessibility](1-Responsive_Web_Design/1-HTML/4-Accessibility)
       - [Lab](1-Responsive_Web_Design/1-HTML/4-Accessibility/Lab)
+      - [Workshop](1-Responsive_Web_Design/1-HTML/4-Accessibility/Workshop/)
   - [CSS](1-Responsive_Web_Design/2-CSS/)
   - [Responsive Web Design Certification](1-Responsive_Web_Design/3-Certification/)
