@@ -11,73 +11,52 @@ J'ai choisis cette voie puisque la conception de site web, que ce soit le côté
 <h1 align="center">Organisation du site et du GitHub</h1>
 
 ## Site freeCodeCamp
-Pendant l'apprentissage, différents *cours* sont proposés ainsi que des *sous-parties*.  
-Par exemple, on a le cours ***HTML*** qui est divisé en plusieurs parties : ***Basic HTML, Semantic HTML, etc***.
 
-De plus, dans chaque sous-parties d'un cours, nous pouvons remarquer des modules de types ***Lecture***, ***Workshop***, ***Lab***, ***Review*** et ***Quiz*** :
-- Les modules ***Lecture*** sont des morceaux de cours théoriques à apprendre
-- Les ***Workshop*** sont des projets à conceptualiser étape par étape
-- Tandis que les ***Lab*** sont des projets qu'il faut corriger ou conceptualiser de zéro
-- Les ***Review*** sont des révisions portant sur les modules précédents
-- Les ***Quiz*** comme son nom l'indique, des quizs pour tester les connaissances acquises précédemment
+Pendant l'apprentissage, différents _cours_ sont proposés ainsi que des _sous-parties_.  
+Par exemple, on a le cours **_HTML_** qui est divisé en plusieurs parties : **_Basic HTML, Semantic HTML, etc_**.
+
+De plus, dans chaque sous-parties d'un cours, nous pouvons remarquer des modules de types **_Lecture_**, **_Workshop_**, **_Lab_**, **_Review_** et **_Quiz_** :
+
+- Les modules **_Lecture_** sont des morceaux de cours théoriques à apprendre
+- Les **_Workshop_** sont des projets à conceptualiser étape par étape
+- Tandis que les **_Lab_** sont des projets qu'il faut corriger ou conceptualiser de zéro
+- Les **_Review_** sont des révisions portant sur les modules précédents
+- Les **_Quiz_** comme son nom l'indique, des quizs pour tester les connaissances acquises précédemment
 
 ## Dépôt GitHub
+
 Mon arborescence de fichiers sur GitHub s'appuie donc sur ces cours et modules.  
 Nous retrouverons un **répertoire par cours**, un **sous-répertoire par sous-parties**, et un répertoire **Workshop** et **Lab** par sous-répertoire.  
 Dans ces derniers répertoires se retrouveront respectivement les fichiers réponses des projets Workshop et les réponses des modules Lab.
 
 Prenons un exemple de suite de modules :
+
 - Workshop
 - Lab
 - Lab
 - Workshop
 
-Le premier fichier sera nommé *"1-XXX.html"* et placé dans le répertoire **Workshop**.  
-Le deuxième fichier sera nommé *"1-XXX.html"* et placé dans le répertoire **Lab**.  
-Le troisième fichier sera nommé *"2-XXX.html"* et placé dans le répertoire **Lab**.  
-Le quatrième fichier sera nommé *"2-XXX.html"* et placé dans le répertoire **Workshop**.  
+Le premier fichier sera nommé _"1-XXX.html"_ et placé dans le répertoire **Workshop**.  
+Le deuxième fichier sera nommé _"1-XXX.html"_ et placé dans le répertoire **Lab**.  
+Le troisième fichier sera nommé _"2-XXX.html"_ et placé dans le répertoire **Lab**.  
+Le quatrième fichier sera nommé _"2-XXX.html"_ et placé dans le répertoire **Workshop**.
 
 Tous les cours, répertoires et fichiers sont accessibles ci-dessous.
 
 <h1 align="center">Cours Full Stack Developer</h1>
 
-- [HTML](HTML/)
-  - [Basic HTML](HTML/BasicHTML)
-    - [Lab](HTML/BasicHTML/Lab)
-    - [Workshop](HTML/BasicHTML/Workshop)
-  - [Semantic HTML](HTML/SemanticHTML)
-    - [Lab](HTML/SemanticHTML/Lab)
-    - [Workshop](HTML/SemanticHTML/Workshop)
-  - [Forms And Table](HTML/FormsAndTables)
-    - [Lab](HTML/FormsAndTables/Lab)
-    - [Workshop](HTML/FormsAndTables/Workshop)
-  - [Accessibility](HTML/Accessibility)
-    - [Lab](HTML/Accessibility/Lab)
-
-
-## CSS
-
-
-
-## JavaScript
-
-
-
-## Front End Libraries
-
-
-
-## Python
-
-
-
-## Relational Databses
-
-
-
-## Backend JavaScript
-
-
-
-## Career
-
+- [Responsive Web Design](1-Responsive_Web_Design/)
+  - [HTML](1-Responsive_Web_Design/1-HTML/)
+    - [Basic HTML](1-Responsive_Web_Design/1-HTML/1-Basic_HTML)
+      - [Lab](1-Responsive_Web_Design/1-HTML/1-Basic_HTML/Lab)
+      - [Workshop](1-Responsive_Web_Design/1-HTML/1-Basic_HTML/Workshop)
+    - [Semantic HTML](1-Responsive_Web_Design/1-HTML/2-Semantic_HTML)
+      - [Lab](1-Responsive_Web_Design/1-HTML/2-Semantic_HTML/Lab)
+      - [Workshop](1-Responsive_Web_Design/1-HTML/2-Semantic_HTML/Workshop)
+    - [Forms And Table](1-Responsive_Web_Design/1-HTML/3-Forms_and_Tables)
+      - [Lab](1-Responsive_Web_Design/1-HTML/3-Forms_and_Tables/Lab)
+      - [Workshop](1-Responsive_Web_Design/1-HTML/3-Forms_and_Tables/Workshop)
+    - [Accessibility](1-Responsive_Web_Design/1-HTML/4-Accessibility)
+      - [Lab](1-Responsive_Web_Design/1-HTML/4-Accessibility/Lab)
+  - [CSS](1-Responsive_Web_Design/2-CSS/)
+  - [Responsive Web Design Certification](1-Responsive_Web_Design/3-Certification/)
