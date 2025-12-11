@@ -60,6 +60,10 @@ Tous les cours, répertoires et fichiers sont accessibles ci-dessous.
             - [Lab](1-Responsive_Web_Design/1-HTML/4-Accessibility/Lab)
             - [Workshop](1-Responsive_Web_Design/1-HTML/4-Accessibility/Workshop/)
     - [CSS](1-Responsive_Web_Design/2-CSS/)
-        - [Basic CSS](1-Responsive_Web_Design/2-CSS/2-Basic_CSS/)
-        - [Design](1-Responsive_Web_Design/2-CSS/3-Design/)
+        - [Basic CSS](1-Responsive_Web_Design/2-CSS/1-Basic_CSS/)
+            - [Lab](1-Responsive_Web_Design/2-CSS/1-Basic_CSS/Lab)
+            - [Workshop](1-Responsive_Web_Design/2-CSS/1-Basic_CSS/Workshop/)
+        <!-- - [Design](1-Responsive_Web_Design/2-CSS/2-Design/) -->
+        - [Absolute and Relative Units](1-Responsive_Web_Design/2-CSS/3-Absolute_Relative_Units/)
+            - [Lab](1-Responsive_Web_Design/2-CSS/3-Absolute_Relative_Units/Lab)
     - [Responsive Web Design Certification](1-Responsive_Web_Design/3-Certification/)
