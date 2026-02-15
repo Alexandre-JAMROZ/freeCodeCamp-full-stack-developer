@@ -1,0 +1,56 @@
+/* ========== CONFIGURATION GLOBALE ========== */
+* {
+    font-family: Arial, sans-serif;
+}
+
+.footer {
+    background-color: #e3e1eb;
+    padding: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* ========== LIENS ========== */
+.footer-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.footer-section .list {
+    text-align: center;
+    display: grid;
+    gap: 10px;
+}
+
+.footer-section .list a {
+    color: #000;
+}
+
+.footer-section .list a:hover {
+    color: #b00c00;
+}
+
+/* ========== COPYRIGHT ========== */
+.copyright {
+    text-align: center;
+    color: #6b7280;
+}
+
+/* ========== ICÔNES ========== */
+.footer-icons {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.footer-icons .anchor {
+    font-size: 1.75rem;
+}
