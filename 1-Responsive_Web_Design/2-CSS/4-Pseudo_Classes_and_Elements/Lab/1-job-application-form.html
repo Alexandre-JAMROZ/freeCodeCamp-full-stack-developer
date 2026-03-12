@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Job Application Form</title>
+        <link rel="stylesheet" href="1-job-application-form.css" />
+    </head>
+    <body>
+        <div class="container">
+            <h1>Job Application Form</h1>
+            <form class="form">
+                <label for="name">Full name:</label>
+                <input
+                    type="text"
+                    name="name"
+                    id="name"
+                    placeholder="Enter your name"
+                    required
+                />
+
+                <label for="email">Email:</label>
+                <input
+                    type="email"
+                    name="email"
+                    id="email"
+                    placeholder="Enter your email"
+                    required
+                />
+
+                <label for="position">Position:</label>
+                <select id="position" name="position" required>
+                    <option value="">Select a position</option>
+                    <option value="developer">Developer</option>
+                    <option value="manager">Community Manager</option>
+                    <option value="hr">Human resources</option>
+                    <option value="janitor">Janitor</option>
+                </select>
+
+                <fieldset class="radio-group">
+                    <legend>Availability:</legend>
+                    <input
+                        type="radio"
+                        name="availability"
+                        id="availability"
+                        checked
+                    />
+                    <label for="availability">Full-time</label>
+                    <input type="radio" name="availability" id="availability" />
+                    <label for="availability">Part-time</label>
+                </fieldset>
+
+                <label for="message">Why do you want this job?</label>
+                <textarea
+                    name="message"
+                    id="message"
+                    placeholder="Write your motivation"
+                    required
+                ></textarea>
+
+                <button type="submit">Submit application</button>
+            </form>
+        </div>
+    </body>
+</html>
