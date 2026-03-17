@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+.color-grid {
+    display: flex;
+    justify-content: space-around;
+}
+
+.color-box {
+    width: 75px;
+    height: 75px;
+    border-radius: 5px;
+    background-color: red;
+}
+
+.color1 {
+    background-color: #123456;
+}
+
+.color2 {
+    background-color: rgb(012, 123, 234);
+}
+
+.color3 {
+    background-color: teal;
+}
+
+.color4 {
+    background-color: hsl(240, 75%, 75%);
+}
+
+.color5 {
+    background-color: #987564;
+}
