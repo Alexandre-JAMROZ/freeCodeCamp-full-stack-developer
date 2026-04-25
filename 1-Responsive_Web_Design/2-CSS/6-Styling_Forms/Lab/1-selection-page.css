@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#page {
+    min-height: 100dvh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    margin-bottom: 1rem;
+}
+
+.feature-card-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    padding: 0 auto;
+}
+
+.feature-card {
+    position: relative;
+    padding: 2rem;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    max-width: 300px;
+}
+.feature-card:hover {
+    border-color: #feca4a;
+    box-shadow: 0 0 12px rgb(254, 202, 74);
+    cursor: pointer;
+}
+
+h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.75rem;
+}
+
+input[type="checkbox"] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+input[type="checkbox"]:checked {
+    background-color: #e3b540;
+    border-color: #e3b540;
+    text-align: center;
+}
+input[type="checkbox"]:checked::after {
+    content: "✓";
+    color: #fff;
+    font-weight: 700;
+}
