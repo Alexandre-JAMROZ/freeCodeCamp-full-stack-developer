@@ -1,0 +1,59 @@
+body {
+    background: #d8bfd8;
+}
+
+h1 {
+    text-align: center;
+}
+
+#playing-cards {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 20px;
+    padding: auto 24px;
+    max-width: 1000px;
+    justify-content: center;
+    margin: auto;
+}
+
+.card {
+    width: 220px;
+    height: 300px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.25);
+}
+.card.black {
+    color: black;
+}
+.card.red {
+    color: red;
+}
+.card .middle {
+    font-size: 4rem;
+}
+.card .inverted {
+    rotate: 180deg;
+}
+
+.left {
+    align-self: flex-start;
+}
+.middle {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+}
+.right {
+    align-self: flex-end;
+}
+.left,
+.right,
+.middle {
+    text-align: center;
+}
